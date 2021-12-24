@@ -1,0 +1,11 @@
+Database name: ngo
+Table name: user_details
+
+#To create a databse named ngo
+create database ngo;
+
+#To create a table named user_details
+create table user_details (
+name varchar(20),
+contact int(15),
+email varchar(30) );
